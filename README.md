@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hmohdarafat](https://github.com/hmohdarafat)
 
-- 💬 Ask me about **ERC-20,ERC-721,ERC-1155 | Go, Solidity, NodeJS, Web3.js, Ethers.js, Hardhat, Truffle, Mocha.js, Chai.js, SQL, HTML, CSS, Bootstrap**
+- 💬 Ask me about <br>**ERC-20,ERC-721,ERC-1155 <br>Go, Solidity, NodeJS, Web3.js, Ethers.js, Hardhat, Truffle, Mocha.js, Chai.js, SQL, HTML, CSS, Bootstrap**
 
 - 📫 How to reach me **hmohdarafat@gmail.com**
 
