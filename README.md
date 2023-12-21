@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hmohdarafat](https://github.com/hmohdarafat)
 
-- 💬 Ask me about <br>**ERC-20, ERC-721, ERC-1155 <br>Go, Solidity, NodeJS, Web3.js, Ethers.js, Hardhat, Truffle, Mocha.js, Chai.js, SQL, Bootstrap, HTML, CSS, MVC<br><br>Go, React, PostgreSQL<br><br>Rust<br>**
+- 💬 My full-stack web development stack goal: **Golang/NodeJS (Backend), React (Frontend), MySQL/PostgreSQL (Database), Multichain Ethereum+EVM / Solana blockchain networks connected dapps (Solidity+RUST+Web3.js+Ethers.js), Mocha+Chai (Testing)**
 
 - Editors I use: Vim, Neovim, Visual Studio Code
 
