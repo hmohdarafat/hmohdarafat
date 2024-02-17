@@ -3,7 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hmohdarafat](https://github.com/hmohdarafat)
 
-- 💬 My full-stack web development stack: **Solidity - Multichain Ethereum (+EVMs) blockchain network smart contracts, Rust - Solana blockchain smart contracts, Web3.js, Ethers.js, Mocha.js, Chai.js, Hardhat, Truffle, Ganache, Next.js, Node.js, React.js, MongoDB, MySQL, PostgreSQL**
+- 💬 My full-stack web development stack: **Solidity - Ethereum (+EVMs) blockchain network smart contracts, Rust - Solana blockchain smart contracts, Web3.js, Ethers.js, Mocha.js, Chai.js, Hardhat, Truffle, Ganache, Next.js, Node.js, React.js, MongoDB, MySQL, PostgreSQL**
+- 💬 My expertise: **Multichain and Crosschain Blockchain Web Dapps. (NFT: ERC-20, ERC-721, ERC-1155)**
+- 💬 My Learning Goals: **Web based NFT dapp using Unity - AR/VR**
 
 - Editors I use: Vim, Neovim, Visual Studio Code
 
